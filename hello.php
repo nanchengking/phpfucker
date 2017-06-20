@@ -6,6 +6,9 @@
 <?php 
 $a="fuck you"
 echo "Hello World! $a"; 
+$b=100;
+echo "$b-1"$
+
 ?> 
 
 </body> 
